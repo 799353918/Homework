@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">中国</string>
+    <string name="app_name">杨玉华2022110653</string>
     <string name="textView">你好，世界！</string>
     <string name="button">点击 <Me>这里</Me></string>
     <string name="clickHere">我被点击了！</string>
