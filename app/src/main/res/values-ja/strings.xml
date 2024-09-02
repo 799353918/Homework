@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">日本</string>
+    <string name="textView">こんにちは、世界！</string>
+    <string name="button">クリック <Me>ここ</Me></string>
+    <string name="clickHere">クリックされました！</string>
+</resources>
